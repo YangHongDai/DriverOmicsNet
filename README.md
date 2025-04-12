@@ -4,17 +4,15 @@ DriverOmicsNet is an integrative graph convolutional network framework for multi
 
 ## Structure
 
-- `scripts/`: R scripts divided by stages of analysis
-- `data/`: (Not included in GitHub) Local storage for raw/processed datasets
-- `output/`: (Not included in GitHub) Output files, results, plots
-- `notebooks/`: Optional RMarkdown/EDA files
+- `scripts/`: R scripts divided by stages of analysis and Jupyter notebooks for DriverOmicsNet
 
 ## How to Run
 
 1. Clone the repository
-2. Open `DriverOmicsNet.Rproj` in RStudio
+2. Run scripts in order from `scripts/` in RStudio
 3. Install required packages listed in each script
-4. Run scripts in order from `scripts/`
+4. Run models using Jupyter notebook scripts
+
 
 ## Citation
 
